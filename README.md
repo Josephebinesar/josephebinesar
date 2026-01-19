@@ -41,8 +41,8 @@
 
 ### 📫 How to reach me  
 - GitHub: [@josephebinesar](https://github.com/josephebinesar)  
-- LinkedIn: *(Add your LinkedIn here)*  
-- Email: *(Your email here)*  
+- LinkedIn: [*(Profile)*](https://www.linkedin.com/in/josephebinesar/)  
+- Email: [*(ID)*](josephebinesarofficial@gmail.com)   
 
 ---
 
