@@ -23,7 +23,7 @@
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Projects
 
 ### 🧠 **FeelUp & EchoLink** – Mental Health Empowerment Platform
 > Flask + HTML/CSS/JS | AI-powered emotional support & wellness tracking  
@@ -54,12 +54,7 @@
 ## 🌱 Currently Learning
 
 ```python
-learning_stack = {
-    "Frontend": ["React.js ⚛️", "Advanced CSS Animations"],
-    "Mobile": ["Flutter 📱", "Dart"],
-    "AI/ML": ["TensorFlow", "Computer Vision", "NLP"],
-    "Backend": ["Flask Advanced Patterns", "REST API Design"],
-    "Tools": ["Docker", "Git Advanced Workflows"]
+learning_stack = { generative AI
 }
 ```
 
@@ -76,7 +71,6 @@ learning_stack = {
 
 ## 🤔 Looking for Help With
 
-- 🔗 Advanced **Flask + React integration** patterns
 - 🎨 **3D modeling / AR try-on systems** for fashion tech
 - 📈 **Scaling MVPs** into production-ready platforms
 - ☁️ **Cloud deployment** strategies (AWS, Azure, GCP)
@@ -87,8 +81,8 @@ learning_stack = {
 
 ```javascript
 const expertise = {
-  webDev: ["HTML", "CSS", "JavaScript", "Flask", "Responsive Design"],
-  databases: ["MySQL", "SQL", "Database Design"],
+  webDev: ["HTML", "CSS", "JavaScript", "Responsive Design"],
+  databases: ["MySQL",],
   python: ["Data Analysis", "NumPy", "Pandas", "Matplotlib"],
   aiML: ["Machine Learning Basics", "Predictive Models", "Feature Engineering"],
   problemSolving: ["Real-world Applications", "Social Impact Tech"]
@@ -104,16 +98,13 @@ const expertise = {
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -143,7 +134,7 @@ const expertise = {
 
 ## 🏆 Achievements & Certifications
 
-🥇 **1st Prize** – Gyan Disha 2025 (State-level Technical Event)  
+🥇 **1st Prize** – Gyan Disha 2025 (Hindustan Technical Event)  
 💻 **Hackathon Participant** – Infosys Hackathon, Saveetha Innovation Challenge, Hindustan Innothon  
 📜 **Data Analysis & Python Developer** – MyCaptain  
 📜 **AI & Full Stack Developer** – MyCaptain  
@@ -221,12 +212,6 @@ CGPA: 8.23/10
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/josephebinesar/josephebinesar/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
